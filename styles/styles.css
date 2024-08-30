@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #0044cc;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+main {
+    padding: 20px;
+}
+#balance {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+#transactions ul {
+    list-style-type: none;
+    padding: 0;
+}
+#transactions li {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+button {
+    margin-right: 10px;
+}

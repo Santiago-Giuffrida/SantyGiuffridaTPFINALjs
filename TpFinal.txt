@@ -1,0 +1,8 @@
+ --Explicación--
+1- HTML: Estructura la página con un área para el saldo, historial de movimientos y un formulario para agregar nuevos movimientos.
+2- CSS: Da estilo a los elementos HTML para que la página sea visualmente atractiva.
+3- JavaScript:
+ * Cargar conceptos desde un archivo JSON y poblar el select del formulario.
+ * Actualizar el saldo y el historial de movimientos.
+ * Guardar y cargar datos del Web Storage para mantener el estado entre sesiones.
+ * Manejar el formulario para agregar nuevos movimientos, actualizar el saldo y mostrar los cambios en el historial.  
